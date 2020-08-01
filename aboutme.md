@@ -1,12 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle:
+subtitle: Things you would like to know
 ---
 
-My name is Sushant Kathuria. I have the following qualities:
+I am Sushant Kathuria. Things I like doing after work:
 
-- Solving problems using code!
-- Trying out different investment options
+- Trying out different investment options!
+- Playing games on my computer.
+- Trevel when I can.
+
+What else do you need?
 
 Send me an email at sushkath@gmail.com to get in touch
