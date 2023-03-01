@@ -1,0 +1,11 @@
+---
+layout: default
+---
+Hello there and welcome to my blog! Here you'll find musings on all things tech, as well as some personal anecdotes and adventures.
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> 
+    </li>
+  {% endfor %}
+</ul>
